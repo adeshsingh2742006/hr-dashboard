@@ -8,3 +8,16 @@
 <img width="4080" height="3072" alt="1000048635" src="https://github.com/user-attachments/assets/129322b1-55be-4eb9-a348-e8153f7e7dea" />
 
 <img width="6120" height="4608" alt="1000048636" src="https://github.com/user-attachments/assets/491b95de-2b34-403f-a7e1-e1db05df1841" />
+## Tech Stack
+- **Frontend:** React.js, Tailwind CSS / CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Real-Time:** WebSockets / Socket.io
+- **Authentication:** JWT (JSON Web Tokens)
+
+## Key Features
+- Employee and Attendance Management
+- Task Assignment and Tracking
+- Real-time Team Communication
+- Secure Authentication
+- 
